@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="531318cd-45ac-4cad-836d-df7bc4810d56" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0</find>
+      <find>pos</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1Pa5gVuvmx0IkIdKDi8Ty2BI2ot" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="LSTMQC" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="c $PROJECT_DIR$/stat_info_ERR2438054 $PROJECT_DIR$/model.pt $PROJECT_DIR$/ERR2438054_1.qs $PROJECT_DIR$/test.bin 1000 " PASS_PARENT_ENVS_2="true" PROJECT_NAME="LSTMQC" TARGET_NAME="LSTMQC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LSTMQC" RUN_TARGET_NAME="LSTMQC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="531318cd-45ac-4cad-836d-df7bc4810d56" name="Default Changelist" comment="" />
+      <created>1562680752289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562680752289</updated>
+      <workItem from="1562680754030" duration="13274000" />
+      <workItem from="1565744357851" duration="21948000" />
+      <workItem from="1565859649777" duration="1273000" />
+      <workItem from="1566099478495" duration="513000" />
+      <workItem from="1566100080172" duration="2482000" />
+      <workItem from="1566266852295" duration="3806000" />
+      <workItem from="1566426296642" duration="247000" />
+      <workItem from="1566569465294" duration="4352000" />
+      <workItem from="1568245143441" duration="1173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
