@@ -34,7 +34,11 @@ struct mem{
         return true_size-pre_start;
     }
 };
-
+//typedef struct {
+//    unsigned short int low_count;
+//    unsigned short int high_count;
+//    unsigned short int scale;
+//} SYMBOL;
 typedef struct {
     char c;
     uint32_t low;
@@ -173,7 +177,38 @@ struct BitIO{
         return ( ( *current_byte >> input_bits_left ) & 1 );
     }
 
+/*
+ * When monitoring compression ratios, we need to know how many
+ * bytes have been output so far.  This routine takes care of telling
+ * how many bytes have been output, including pending bytes that
+ * haven't actually been written out.
+ */
+//    long bit_ftell_output( FILE *stream)
+//    {
+//        long total;
+//
+//        total = ftell( stream );
+//        total += current_byte - buffer;
+//        total += underflow_bits/8;
+//        return( total );
+//    }
 
+/*
+ * When monitoring compression ratios, we need to know how many bits
+ * have been read in so far.  This routine tells how many bytes have
+ * been read in, excluding bytes that are pending in the buffer.
+ */
+//    long bit_ftell_input( FILE *stream )
+//    {
+//        return( ftell( stream ) - input_bytes_left + 1 );
+//    }
+};
+/*
+ * These four variables define the current state of the arithmetic
+ * coder/decoder.  They are assumed to be 16 bits long.  Note that
+ * by declaring them as short ints, they will actually be 16 bits
+ * on most 80X86 and 680X0 machines, as well as VAXen.
+ */
 
 
 struct Coder{
