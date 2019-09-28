@@ -1,6 +1,6 @@
 Requirement:
 
- *   Libtorch
+ *   Libtorch-1.2.0
 
 
 We provide a compiled excutable binary file. IF it doesn't work, re-compile in following steps:
