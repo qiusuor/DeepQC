@@ -7,5 +7,4 @@ We provide some pre-trained models of several most popular platforms. If other p
 
 Training code can be found in <font color=#0099ff  face="黑体">python</font> folder. The author would be pleased if someone upload their well-trained models of diversity platforms.
 
-In our observation, DeepQC still has huge potentiality in running speed. We encourage skilled programers/researches implement a faster version using muti-thread technology.
-
+In our observation, DeepQC still has huge potentiality in running speed. We do plan to release a faster verison in future using multi-threading technology.
