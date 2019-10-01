@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-INPUT_FASTQ= $1 #something.fastq ,best giving an absolut path
-
 rm data/* -rf
 
 ln -s $1 data/input.fastq
