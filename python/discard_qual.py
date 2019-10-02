@@ -10,10 +10,6 @@ with open(sys.argv[1]) as f:
     for i,x in enumerate(f):
         if i%4==3:
             out_f.write('T'*(len(x)-1)+'\n')
-        elif i%4==2:
-            out_f.write('+\n')
-        elif i%4==0:
-            out_f.write("@1\n")
         else:
-            out_f.write('T'*(len(x)-1)+'\n')
+            out_f.write(x)
 
