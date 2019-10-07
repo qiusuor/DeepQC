@@ -1,4 +1,4 @@
-# simple example.
+# Simple example.
 
 `
 bash run.sh
