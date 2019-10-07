@@ -11,7 +11,7 @@ bash run.sh
 ../c++/DeepQC --usage
 `
 
-If it doesn't work, you may need to configure Libtorch environment and re-compile DeepQC in c++ folder.
+If it doesn't work, you may need to configure Libtorch environment and re-compile DeepQC in `c++` folder.
 
 ### Compression
 `
