@@ -7,3 +7,6 @@ We provide some pre-trained models of several most popular platforms. If other p
 
 Training code can be found in <font color=#0099ff  face="黑体">python</font> folder. The author would be pleased if someone upload their well-trained models of diversity platforms.
 
+# Quick start
+
+We provide an example in folder <font color=#0099ff  face="黑体">example</font> folder. 
