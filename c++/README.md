@@ -7,7 +7,7 @@ We provide a compiled excutable binary file. IF it doesn't work, re-compile in f
 
 # Compile steps on Linux/Unix
 
-*   Edit Torch_DIR in CMakeLists.txt accordingly
+*   Edit CMakeLists.txt accordingly
 *   rm CMakeCache.txt
 *   mkdir build && cd build
 *   cmake ..
