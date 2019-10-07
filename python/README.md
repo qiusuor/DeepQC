@@ -12,6 +12,6 @@ After trainging, <font color=#0099ff  face="黑体">model.pt</font> and <font co
 
 
 
-# Have trouble with compiling?
+# Have trouble with training?
 
 Contact 750435412@qq.com. The response will be soon.
