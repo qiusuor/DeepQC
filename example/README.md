@@ -4,7 +4,7 @@
 `
 bash run.sh
 `
-## Or you can test step by step:
+## Or step by step:
 
 ### Test whether the pre-compiled excutable binary works
 `
