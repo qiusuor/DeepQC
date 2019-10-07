@@ -9,4 +9,4 @@ Training code can be found in <font color=#0099ff  face="黑体">python</font> f
 
 # Quick start
 
-We provide an example in folder <font color=#0099ff  face="黑体">example</font>. 
+We provide an simple example in folder <font color=#0099ff  face="黑体">example</font>. 
