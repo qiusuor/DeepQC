@@ -7,7 +7,7 @@ We provide a compiled excutable binary file. IF it doesn't work, re-compile in f
 
 # Compile steps on Linux/Unix
 
-*   Edit CMakeLists.txt accordingly
+*   Edit CMakeLists.txt to config Libtorch path
 *   rm CMakeCache.txt
 *   mkdir build && cd build
 *   cmake ..
@@ -16,7 +16,7 @@ We provide a compiled excutable binary file. IF it doesn't work, re-compile in f
 
 Make sure you have already installed CUDA, CUDNN, Libtorch successfully.
 
-You may need to delete CMakeCache.txt when re-compile. Just ignore cmake warnings if appear.
+You may need to delete CMakeCache.txt when re-compile. 
 
 
 # Have trouble with compiling?
