@@ -16,9 +16,5 @@ We provide a compiled excutable binary file. IF it doesn't work, re-compile in f
 
 Make sure you have already installed CUDA, CUDNN, Libtorch successfully.
 
-You may need to delete CMakeCache.txt when re-compile. 
+May need to delete CMakeCache.txt when re-compile. 
 
-
-# Have trouble with compiling?
-
-Contact 750435412@qq.com. The response will be soon.
